@@ -46,6 +46,7 @@ My primary role was to be responsible for planning and scheduling projects, incl
 My primary role was to be responsible for planning and scheduling projects, including estimating the time and materials needed to complete them. Also, oversee the work of electricians while they're on the job and provide them with assistance or guidance when necessary—reading and interpreting design schematics to ensure the proper installation of electrical systems and troubleshooting major system failures and equipment malfunctions. Repairing and maintaining electrical equipment. [ 36 months]
 - **09/2006 to 12/2008, Electrical Engineer, Babylon Mayor's office, Babylon, Iraq.**
 My job responsibility is to draw up project plans and circuit diagrams for high and low-voltage electrical equipment, carry out feasibility studies for new technical developments, write reports, and compile data regarding existing and potential electrical engineering projects and studies. I prepared specifications for purchases of electrical equipment and materials. I estimated material, labor, or construction costs for budget preparation and maintaining electrical equipment. Working with a variety of technicians. [ 27 months]
+- **06/2017 to Present,Web of Science**, performed 24 reviews for journals and was invited as a program committee member for more than six international conferences.
 
 # Professional Organizations and Honorary Societies
 -	IEEE Young Professional Member
@@ -67,7 +68,7 @@ My job responsibility is to draw up project plans and circuit diagrams for high 
 -	Content Writer for IEEE PES Young Professionals Marketing and Communications Subcommittee 2022.
 
 # IEEE STANDARD
--	IEEE P3155, Title: Programmable Quantum Simulator Working Group
+-	IEEE P3155, Title: Programmable Quantum Simulator Working Group.
 -       IEEE P2668, Title: Standard for Maturity Index of Internet-of-things: Evaluation, Grading, and Ranking.
 
 # PE Registrations
