@@ -5,10 +5,10 @@
 
 
 # Education
-| University of Technology |                                                          Middle Technical University |University of Babylon |
-| :------------------------: |                                                     :-------------------------------: |  :-------------------------------: | 
-| Baghdad, Iraq                                              |                                      Baghdad, Iraq | Babylon, Iraq |
-| ElectroMechanical Systems Engineering                      |                           Power System Engineering | Electrical Engineering |
+| University of Technology | Middle Technical University | University of Babylon |
+| :------------------------: |:-------------------------------: |  :-------------------------------: | 
+| Baghdad, Iraq                                              |  Baghdad, Iraq                                     | Babylon, Iraq |
+| ElectroMechanical Systems Engineering                      |  Power System Engineering                          | Electrical Engineering |
 | Master of Science in Electromechanical Systems Engineering |  Higher Diploma Degree in Power System Engineering | Bachelor of Science in Electrical Engineering |
 
 
